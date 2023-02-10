@@ -1,0 +1,5 @@
+- name:    --------fetch modual -------
+  fetch:
+    src: /home/myfile.txt
+    dest: /home
+  tags: copy_mod
